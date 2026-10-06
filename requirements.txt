@@ -1,0 +1,9 @@
+# Python 3.12 (64-bit). PIL is provided by Pillow.
+# pip resolves the compatible torch / torchvision pair together.
+torch>=2.5,<3
+torchvision>=0.20,<1
+streamlit>=1.40,<2
+matplotlib>=3.9,<4
+scikit-learn>=1.5,<2
+Pillow>=10.4,<13
+numpy>=1.26,<3
